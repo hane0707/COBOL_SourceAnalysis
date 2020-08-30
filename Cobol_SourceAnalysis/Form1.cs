@@ -81,7 +81,10 @@ namespace Cobol_SourceAnalysis
             // 出力ファイルが使用中ではないかチェック
             try
             {
-                using (Stream st = new FileStream(OUT_FILE_NAME, FileMode.Open)) { }
+                if (File.Exists(OUT_FILE_NAME))
+                {
+                    using (Stream st = new FileStream(OUT_FILE_NAME, FileMode.Open)) { }
+                }
             }
             catch (Exception)
             {
