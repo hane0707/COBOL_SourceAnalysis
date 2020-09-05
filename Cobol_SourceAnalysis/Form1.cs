@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Configuration;
 
 namespace Cobol_SourceAnalysis
 {
@@ -61,7 +62,8 @@ namespace Cobol_SourceAnalysis
                 {
                     // exeを実行
                     Process proc = new Process();
-                    proc.StartInfo.FileName = @"C:\dev\00_C#\console\ExecCobolAnalysis\ExecCobolAnalysis\bin\Debug\ExecCobolAnalysis.exe";
+                    proc.StartInfo.FileName =
+                        Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + ConfigurationManager.AppSettings["ExecFilePath"];
                     proc.StartInfo.Arguments = item.ToString();
                     proc.Start();
                     proc.WaitForExit();

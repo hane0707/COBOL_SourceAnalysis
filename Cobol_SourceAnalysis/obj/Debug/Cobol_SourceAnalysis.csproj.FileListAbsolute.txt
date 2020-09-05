@@ -47,3 +47,17 @@ C:\dev\00_C#\Cobol_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\Cobol_SourceAna
 C:\dev\00_C#\Cobol_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.Properties.Resources.resources
 C:\dev\00_C#\Cobol_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.exe
 C:\dev\00_C#\Cobol_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.pdb
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\Cobol_SourceAnalysis.exe.config
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\Cobol_SourceAnalysis.exe
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\Cobol_SourceAnalysis.pdb
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\System.IO.Packaging.dll
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.csprojAssemblyReference.cache
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.Form1.resources
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.Properties.Resources.resources
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.Result.resources
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.csproj.GenerateResource.cache
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.csproj.CoreCompileInputs.cache
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.csproj.CopyComplete
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.exe
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\obj\Debug\Cobol_SourceAnalysis.pdb
+C:\dev\00_C#\SourceAnalysis\COBOL_SourceAnalysis\Cobol_SourceAnalysis\bin\Debug\App.config
