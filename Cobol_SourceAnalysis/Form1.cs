@@ -15,10 +15,6 @@ namespace Cobol_SourceAnalysis
         const int RETURN_ERR_200 = 200;
         #endregion
 
-        #region 変数
-        string OutFileName = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + @"\result.xlsx";
-        #endregion
-
         public Form1()
         {
             InitializeComponent();
@@ -62,8 +58,7 @@ namespace Cobol_SourceAnalysis
                 {
                     // exeを実行
                     Process proc = new Process();
-                    proc.StartInfo.FileName =
-                        Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + ConfigurationManager.AppSettings["ExecFilePath"];
+                    proc.StartInfo.FileName = ConfigurationManager.AppSettings["ExecFilePath"];
                     proc.StartInfo.Arguments = item.ToString();
                     proc.Start();
                     proc.WaitForExit();
